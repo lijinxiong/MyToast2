@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context="lao.yu.xian.mytoast.Main2Activity">
+
+    <Button
+        android:id="@+id/show_success"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="show_success"
+        />
+
+    <Button
+        android:id="@+id/show_error"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="show_error"
+        />
+
+    <Button
+        android:id="@+id/show_normal"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="show_normal"
+        />
+
+    <Button
+        android:id="@+id/show_info"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="show_info"
+        />
+
+    <Button
+        android:id="@+id/show_warn"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="show_warn"
+        />
+
+    <Button
+        android:id="@+id/show_custom_background"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="show_custom_background"
+        />
+
+
+    <Button
+        android:id="@+id/show_custom_background_and_other"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="show_custom_background_and_other"
+        />
+
+    <Button
+        android:id="@+id/showSuccessImageMessageToast"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="showSuccessImageMessageToast"
+        />
+
+    <Button
+        android:id="@+id/showErrorImageMessageToast"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="showErrorImageMessageToast"
+        />
+
+
+    <Button
+        android:id="@+id/showInfoImageMessageToast"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="showInfoImageMessageToast"
+        />
+
+
+
+    <Button
+        android:id="@+id/showWarnImageMessageToast"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="showWarnImageMessageToast"
+        />
+
+    <Button
+        android:id="@+id/showLoadCompleteToast"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="showLoadCompleteToast"
+        />
+
+    <Button
+        android:id="@+id/showLoadCompleteCarVertical"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="showLoadCompleteCarVertical"
+        />
+
+
+    <Button
+        android:id="@+id/showLoadCompleteCarHorizontal"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="showLoadCompleteCarHorizontal"
+        />
+</LinearLayout>

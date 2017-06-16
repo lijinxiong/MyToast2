@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shape xmlns:android="http://schemas.android.com/apk/res/android"
+       android:shape="ring">
+
+    <solid android:color="#DA6858"/>
+
+    <gradient
+        android:endColor="@android:color/white"
+        android:startColor="#DA6858"
+        android:centerColor="@android:color/holo_purple"
+        android:type="linear"/>
+
+</shape>

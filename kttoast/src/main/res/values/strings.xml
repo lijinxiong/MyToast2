@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">KtToast</string>
+
+
+
+    <string name="error_background">#D92727</string>
+    <string name="success_background">#62A465</string>
+    <string name="info_background">#5060BA</string>
+    <string name="warn_background">#FDAF17</string>
+    <string name="normal_background">#646464</string>
+
+</resources>
