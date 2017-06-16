@@ -1,9 +1,9 @@
-# MyToast2
 ![](http://i.imgur.com/6xowrcq.png)       
 
 先上图    
 
-![](http://i.imgur.com/Pzjv0DQ.gi
+![](http://i.imgur.com/Pzjv0DQ.gif)     
+    
 ## 开始 ##
 开会看到[Toasty](https://github.com/GrenderG/Toasty)挺好的，直自己用Kotlin写了一个，加上一些动画      
 布局没有使用anko，还是使用了xml，主要一开始的时候使用的时候出现了些问题，导致后来直接用xml     
@@ -29,6 +29,4 @@
 
 ![](http://i.imgur.com/Ug8J24s.png)    
 
-![](http://i.imgur.com/iyHGPcf.png)    
-
-
+![](http://i.imgur.com/iyHGPcf.png)
